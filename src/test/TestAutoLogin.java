@@ -23,6 +23,5 @@ public class TestAutoLogin {
 	button.click();
 
 	}
-	
 
 }
